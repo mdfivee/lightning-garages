@@ -2,6 +2,8 @@
 
 Fivem Garage Script
 
+Preview ; https://www.youtube.com/watch?v=3k90eosPEAk
+
 Development ; dha4my , Nora Development
 
 Lightning Development ; https://discord.gg/BsSFvfYm3a
